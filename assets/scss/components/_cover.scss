@@ -4,19 +4,19 @@
 .pb_xl_py_cover {
 	@extend .bg_image;
 	position: relative;
-	padding: 6em 0;
+	padding: 0em 0;
 	@include media-breakpoint-down(sm) {
 		height: inherit;
 		text-align: center!important;
-		padding: 6em 0;
+		padding: 0 0;
 	}
 	> .container {
 		position: relative;
 		> .row {
-			padding: 6em 0;
+			padding: 0em 0;
 			@include media-breakpoint-down(sm) {
 				height: inherit;
-				padding: 6em 0;
+				padding: 0em 0;
 			}
 		}
 	}
@@ -55,25 +55,25 @@
 	}
 }
 .pb_sm_py_cover {
-	padding: 3em 0;
+	padding: 0em 0;
 	@include media-breakpoint-down(sm) {
 		height: inherit;
 		text-align: center!important;
-		padding: 3em 0;
+		padding: 0em 0;
 	}
 	> .container {
 		position: relative;
 		> .row {
-			padding: 3em 0;
+			padding: 0em 0;
 			@include media-breakpoint-down(sm) {
 				height: inherit;
-				padding: 3em 0;
+				padding: 0em 0;
 			}
 		}
 	}
 }
 .pb_lg_py_cover {
-	padding: 8em 0;
+	padding: 0em 0;
 	@include media-breakpoint-down(sm) {
 		height: inherit;
 		text-align: center!important;
@@ -91,19 +91,19 @@
 	}
 }
 .pb_xl_py_cover {
-	padding: 10em 0;
+	padding: 0em 0;
 	@include media-breakpoint-down(sm) {
 		height: inherit;
 		text-align: center!important;
-		padding: 10em 0;
+		padding: 0em 0;
 	}
 	> .container {
 		position: relative;
 		> .row {
-			padding: 7em 0;
+			padding: 0em 0;
 			@include media-breakpoint-down(sm) {
 				height: inherit;
-				padding: 7em 0;
+				padding: 0em 0;
 			}
 		}
 	}
