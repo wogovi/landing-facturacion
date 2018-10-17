@@ -1763,8 +1763,17 @@ a {
   width: 40%;
 }
 
-.ak{
+.img-fluid2 {
+  max-width: 77%;
+  height: auto;
+}
+
+.pb_xl_py_cover > .container > .row {
   padding: 0em 0;
 }
+
+.pb_accordion .item > a[aria-expanded="true"] {
+  color: #ffffff; !important;
+  border-bottom: 1px solid transparent;
 }
 /*# sourceMappingURL=style.css.map */
